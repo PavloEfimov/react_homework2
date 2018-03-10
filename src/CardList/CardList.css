@@ -1,0 +1,10 @@
+.cardsBlock {
+    width: 100%;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    flex: 0 0 62%;
+    flex-wrap: wrap;
+}
